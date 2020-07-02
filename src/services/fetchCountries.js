@@ -11,7 +11,7 @@ export default {
       }
       return Promise.reject(
         PNotify.error({
-          text: '404 Not found',
+          text: '404 Not found1',
         }),
       );
     });
